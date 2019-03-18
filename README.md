@@ -2,7 +2,7 @@
 [![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
 
-This is a simple script which fetches the current co-ordinates of the International Space Station.
+This is a simple script which fetches the current co-ordinates of the International Space Station and converts the co-ordinates to address.
 ----
 > API's Used -
     * http://api.open-notify.org/iss-now.json
